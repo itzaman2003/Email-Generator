@@ -5,7 +5,7 @@ and capabilities. This saves time and improves the chances of making a strong im
 ![img.png](imgs/img.png)
 
 ## Architecture Diagram
-![img.png](![image]()
+![img.png](![image](architecture.png)
 )
 
 ## Set-up
