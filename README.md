@@ -4,7 +4,8 @@ Students often struggle with crafting personalized emails when applying for inte
 ![img.png](imgs/img.png)
 
 ## Architecture Diagram
-![img.png](imgs/architecture.png)
+![img.png](![image](https://github.com/user-attachments/assets/46314c21-25de-4a33-80a7-f1f626cef610)
+)
 
 ## Set-up
 1. To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside `app/.env` update the value of `GROQ_API_KEY` with the API_KEY you created. 
